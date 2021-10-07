@@ -1,0 +1,35 @@
+ x = 4
+ y = 2
+
+  # Arithmetric Operators
+  print(x+y)  #Addition
+  print(x-y)  #Subtraction
+  Print(x*y)  #Multiplication
+  Print(x/y)  #Division
+  Print(x%y)  #Modulus
+  Print(x**y)  #Exponentiation
+  x = 4
+  print(x//y)  #Floor division
+
+   # Assignment operators
+   x = 4  # set x = 4
+   x +=2  # x = x + 2
+   print(x)
+   x = 4
+   y -= 2    # x = x - 2
+   print(x)
+   x *= 2    # x = x * 2
+   print(x)
+   x /= 2    # x = x / 3
+   x **= 3   # x = x ** 3
+   print (x)
+
+    # Comparison Operators
+    x = 4
+    y = 2
+    print(x==y)     #True if x equals
+    print(x!=y)     #Ture if x does not equal y,  False otherwise.
+    print(x>y)      #Ture if x is greater than y, False otherwise.
+    print(x<y)      #Ture if x is lesser than y, False otherwise.
+    print(x>=y)     #Ture if x is greater and equal to y, False otherwise
+    print(x<=y)     #Ture if x is lesser and equal to y, False otherwise.
