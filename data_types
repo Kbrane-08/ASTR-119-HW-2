@@ -1,0 +1,22 @@
+import numpy as np    #import numpy liabrary
+
+ #integers
+
+ i = 10      #integers
+ print (type(i))  #print out the data type of 1
+
+ a_i = np.zeros(i,dtypr=int) #declear sn array of ints
+ print (type(a_i))     #will return ndarray
+  print (type(a_i[0]))  #will return int64
+
+  #float
+
+  x= 100.0  #floating point number 
+  print(type(x))   #orint out the data type of x
+
+  y = 1e2  #float 100 in sciencific notation
+  print(type(y))   #orint out the data type of y
+
+  z = np.zeros(i,dtypr=float) #declear sn array of floats
+  print(type(z))     #will return ndarray
+   print (type(z[0]))   #will return float 64
