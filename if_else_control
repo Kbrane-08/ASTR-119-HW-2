@@ -1,0 +1,31 @@
+ #define a function
+ def flow_control(k):
+
+     #define a string based on the value k
+     if(k==0):
+      s ="valuable k =%d equals 0. % k
+
+      elif (k==1):
+         s = "valuable k =%d equals 1." % k
+
+       else:
+            s = "valuable k =%d doesn't equal 0 or 1."  % k
+
+       #print the valuable
+        print (s)
+
+    #define a main function
+     def main()
+     declear an interger.
+     i = 0
+
+     #try flow_control fro 0,1, , 2
+     flow_control(i)
+      i = 0
+     flow_control(i)
+      i = 2
+     flow_control(i)
+
+      #run the main function
+        if _name_ == "_main_":
+           main()
